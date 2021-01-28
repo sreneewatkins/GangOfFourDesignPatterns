@@ -1,5 +1,5 @@
-#Java Design Patterns
-###Creational Design Patterns
+# Java Design Patterns
+### Creational Design Patterns
 
 1. *Builder*: Builder design pattern is an alternative way to construct complex objects and should be used only when we want to build different types of immutable objects using same object building process.
 2. *Prototype*: Prototype design pattern is used in scenarios where application needs to create a large number of instances of a class, which have almost same state or differ very little. |
