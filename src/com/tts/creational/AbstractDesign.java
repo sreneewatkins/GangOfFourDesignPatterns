@@ -180,7 +180,6 @@ package com.tts.creational;
     }
 
 
-
     class CarFactory
     {
         private CarFactory()
